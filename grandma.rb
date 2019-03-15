@@ -1,5 +1,11 @@
 # Write a speak_to_grandma method.
 
+phrase = gets.chomp
+
+def speak_to_grandma(phrase)
+  if phrase
+  
+
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
